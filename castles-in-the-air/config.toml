@@ -1,5 +1,5 @@
-baseURL = "http://www.example.com"
-title = "Minimo"
+baseURL = "http://castles-in-the-air.github.io"
+title = "Castles in the Air"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 
@@ -20,7 +20,7 @@ pygmentsCodefences = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "Minimalist theme for Hugo"
+description = "Making dreams come true"
 title404 = "Nothing's here!"
 
 [params.assets]
@@ -31,8 +31,8 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me  )
 
 [params.copyright]
 prefix = ""
-holder = "MunifTanjim"
-startYear = "2017"
+holder = "Castles in the Air, Inc."
+startYear = "2018"
 suffix = ""
 
 [params.settings]
@@ -81,10 +81,6 @@ tag = "tags"
 page = "/:slug/"
 
 [[menu.main]]
-name = "Repo"
-weight = -10
-identifier = "repository"
-url = "https://github.com/MunifTanjim/minimo"
 
 [blackfriday]
 hrefTargetBlank = true
