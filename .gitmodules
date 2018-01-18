@@ -1,3 +1,3 @@
-[submodule "castles-in-the-air/themes/minimo"]
-	path = castles-in-the-air/themes/minimo
-	url = https://github.com/MunifTanjim/minimo
+[submodule "castles-in-the-air/themes/castles-theme"]
+	path = castles-in-the-air/themes/castles-theme
+	url = git@github.com:castles-in-the-air/castles-theme.git
