@@ -1,5 +1,5 @@
 baseURL = "http://www.example.com"
-title = "Minimo"
+title = "Castles in the Air"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 
@@ -20,7 +20,7 @@ pygmentsCodefences = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "Minimalist theme for Hugo"
+description = ""
 title404 = "Nothing's here!"
 
 [params.assets]
